@@ -1,5 +1,5 @@
 # Simple Express Server
-<a href="https://nodejs.org/en/">
+<a href="https://nodejs.org/en/" target="_blank">
   <img width="200" float="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="Alt Text" title="Node Logo">
 </a>
 
