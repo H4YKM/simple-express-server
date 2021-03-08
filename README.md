@@ -1,6 +1,6 @@
 # Simple Express Server
 
-<img width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="Alt Text" title="Node Logo">
+<img width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="Alt Text" title="Node Logo">
 
 This is a simple site of three pages. The server of this site was created on Node.JS and on the express library.
 
