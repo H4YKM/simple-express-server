@@ -7,14 +7,14 @@ First on terminal paste this code
 npm install
 ```
 
-After that run server in dev mode or in final mode
+After that run server in **dev** mode or in **final** mode
 
-Dev work in nodemon
+**Dev** work in nodemon
 ```javascript
 npm run dev
 ```
 
-Start work in default Node
+**Start** work in default Node
 ```javascript
 npm run start
 ```
