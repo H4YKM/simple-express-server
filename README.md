@@ -2,7 +2,8 @@
 <p>
 <a href="https://nodejs.org/en/" target="_blank">
   <img width="200" float="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="Alt Text" title="Node Logo">
-  <hr> 
+</a>
+<a href="https://expressjs.com/ru/">
   <img width="200" src="https://www.scgpacewisdom.com/img/services/express/logo_Express.png">
 </a>
 </p>
